@@ -1,0 +1,175 @@
+Package: auxo.178
+Version: 1.4-2
+Architecture: iphoneos-arm
+Maintainer: 178 Team <apt@178.com>
+Installed-Size: 2127
+Depends: firmware (>= 5.1), mobilesubstrate, preferenceloader, applist
+Filename: debs/auxo1.4-2.deb
+Size: 1822346
+MD5sum: 414b8ccebe8f471a2976a6a6f645784e
+SHA1: 197f4672ab72d8e038e397cb741545392ca3d836
+SHA256: 37442c31596e2ae8022d4ca9c14ab34572e431e4523750d7487624123f698250
+Section: [178 - 工具]
+Homepage: http://apt.178.com/html/2013/0526/iphone9762.shtml
+Description: 最酷最好用ios多任务增强插件。
+Author: A3tweaks <A3tweaks@gmail.com>
+Depiction: http://apt.178.com/html/2013/0526/iphone9762.shtml
+Dev: a3tweaks
+Icon: file:///Library/PreferenceLoader/Preferences/AuxoIcon@2x.png
+Name: Auxo
+Sponsor: w花
+
+Package: com.a3tweaks.auxo2
+Version: 1.2.3
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1613
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist
+Conflicts: com.danyl.cccontrols (<= 1.0.2), kr.slak.cctoggles (<< 0.1-18), org.thebigboss.vertex
+Filename: debs/com.a3tweaks.auxo2_1.2.3_iphoneos-arm.deb
+Size: 596636
+MD5sum: 1dfec4ae286214809481a0a9a2b0cf3e
+SHA1: a864c120cae72dd00183ed56dcf55362956aed33
+SHA256: c34a56959b75de9b537777127515bb82abb24df5fe3badd283e0d8d46b4940d8
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=auxo2Dp
+Description: A fantasic re-imagined task switcher!
+Tag: cydia::commercial, purpose::extension
+Author: A3tweaks <auxo2@a3tweaks.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=auxo2Dp
+Dev: a3tweaks
+Icon: file:///Library/PreferenceBundles/UminoPreferences.bundle/Auxo2@2x.png
+Name: Auxo 2 (iOS 7)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.a3tweaks.auxo3
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1712
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist
+Conflicts: com.a3tweaks.auxo2
+Filename: debs/com.a3tweaks.auxo3_1.1_iphoneos-arm.deb
+Size: 656180
+MD5sum: 72fc8bbfe9940b9ec94e22a6eefab583
+SHA1: 8793efae3e3d79e3d90e2e782dccc37525cb6d9e
+SHA256: e54c102d9f329f91c988c751527b25e5d6767545fdda10407a599f71e270321a
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=auxo3Dp
+Description: A fantasic re-imagined task switcher!
+Tag: cydia::commercial, purpose::extension, ios8support::1
+Author: A3tweaks <auxo3@a3tweaks.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=auxo3Dp
+Dev: a3tweaks
+Icon: file:///Library/PreferenceBundles/UminoPreferences.bundle/Auxo2@2x.png
+Name: Auxo 3 (iOS 8)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.a3tweaks.auxo3ios9
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 735
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist
+Conflicts: com.a3tweaks.auxo2, com.a3tweaks.auxo3
+Filename: debs/com.a3tweaks.auxo3ios9_1.1.2_iphoneos-arm.deb
+Size: 335094
+MD5sum: a8e9fd7337d7680e389950473c7e2b48
+SHA1: 788be9f9c21e5fb9159a585c782f9520376061b6
+SHA256: a3d78538a29b2697ce1b3b6b51c9e3c5f1cb414e7e2a212f0edf7660b950bdde
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=auxo3ios9Dp
+Description: A fantasic re-imagined task switcher!
+Tag: cydia::commercial, purpose::extension, compatible::ios9
+Author: A3tweaks <hi@qusic.me>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=auxo3ios9Dp
+Dev: auxo3ios9
+Icon: file:///Library/PreferenceBundles/NewAuxoPreferences.bundle/Auxo@2x.png
+Name: Auxo 3 (iOS 9)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.saurik.substrate.safemode
+Version: 0.9.6001
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Installed-Size: 156
+Depends: mobilesubstrate (>= 0.9.3367+38)
+Conflicts: safe-mode-fixer-ios7
+Replaces: safe-mode-fixer-ios7
+Filename: debs/com.saurik.substrate.safemode_0.9.6001_iphoneos-arm.deb
+Size: 13226
+MD5sum: 5e9905d35c71075b2a7f0aed5cd4b1db
+SHA1: 916af06e0c879233ff22d795b04abf8276ff905b
+SHA256: 86515cb9f6832247dbeae8427b996099dc8759bb1ef1d719c293123f2f531ee1
+Section: Tweaks
+Priority: optional
+Description: safe mode safety extension (safe)
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/com.saurik.substrate.safemode/
+Name: Substrate Safe Mode
+
+Package: mobilesubstrate
+Version: 0.9.6301
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: com.saurik.substrate.safemode
+Conflicts: me.devbug.msreloadfix, com.r3pwn.startsubstrate, com.ragemasta.bootstrap
+Breaks: uikittools (<< 1.1.1), com.mywi4 (<= 5.03.2), com.phoenix.pandoracontrols (<= 1.1.0-1), com.intelliborn.intelliscreenx (<= 1.0.110), com.evad3rs.evasi0n7 (<< 0.2)
+Replaces: cycript (<= 0.9.594)
+Filename: debs/mobilesubstrate_0.9.6301_iphoneos-arm.deb
+Size: 122342
+MD5sum: f2ca15c08aab522d8b7e842238aa83c6
+SHA1: 02ad8dce33adae8ba256dd5a4cac3bdf0246deec
+SHA256: 8dc91a066f088632409fecf65613831b8d6802e3b799f2dc87563c3ea2ed06ca
+Section: System
+Priority: optional
+Description: powerful code insertion platform
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/mobilesubstrate/
+Name: Cydia Substrate
+
+Package: org.thebigboss.auxo
+Version: 1.4-2
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 2127
+Depends: firmware (>= 5.1), mobilesubstrate, preferenceloader, applist
+Filename: debs/org.thebigboss.auxo_1.4-2_iphoneos-arm.deb
+Size: 1818854
+MD5sum: 11753f550e6b4cab730a5eb55bbd8dab
+SHA1: 846623888fe869f3930bf63ffb9d200cabf83dbb
+SHA256: a63e4aab3d823fe957337b1b5c3a70fa9e86dd485c9f38e4b75265ce8c1cc4ad
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=auxoDp
+Description: A fantastic re-imagined multitasking bar!
+Tag: cydia::commercial, purpose::extension
+Author: A3tweaks <A3tweaks@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=auxoDp
+Dev: a3tweaks
+Icon: file:///Library/PreferenceLoader/Preferences/AuxoIcon@2x.png
+Name: Auxo (iOS 5 & 6)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: org.thebigboss.auxopad
+Version: 1.0.2-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 805
+Depends: firmware (>= 6.0), mobilesubstrate, preferenceloader, applist, com.a3tweaks.flipswitch, gsc.ipad
+Filename: debs/org.thebigboss.auxopad_1.0.2-1_iphoneos-arm.deb
+Size: 601434
+MD5sum: 57ae18b412d039c237ca25903a4e7a98
+SHA1: c58a6e2be1323ed5f86e82a5e51de038cee4c336
+SHA256: 7c2348ce74c08b5b042764a106b41dd6ef413a092d40bb0c7ae488cf0e7eb266
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=auxopadDp
+Description: A fantastic re-imagined multitasking bar!
+Tag: cydia::commercial, purpose::extension
+Author: A3tweaks <A3tweaks@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=auxopadDp
+Dev: a3tweaks
+Icon: file:///Library/PreferenceBundles/Auxo.bundle/AuxoIcon@2x.png
+Name: Auxo for iPad
+Sponsor: thebigboss.org <http://thebigboss.org>
+
